@@ -1,0 +1,24 @@
+#include<iostream>
+#include<vector>
+#include<string>
+
+using namespace std;
+
+class Animals{
+public:
+  string aname;
+  stringsname;
+  int zanimalid;
+  string feedtype;
+  float feedtime;
+  int memberid;
+  
+  Animals (string a_name, string_sname, int a_id, string feed_type, int feed_time){
+  aname = sname;
+  sname = a_id;
+  feedtype = feed_type;
+  feedtime = feed_time;
+  memberid = -1;
+  }
+ };
+ 
