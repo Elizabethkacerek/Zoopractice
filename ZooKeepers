@@ -1,0 +1,20 @@
+#include<iostream>
+#include<vector>
+#include<string>
+
+using namespace std;
+
+class ZooKeepers{
+public
+  string name;
+  int id;
+  string animal;
+  vector<int>animalid;
+  
+ ZooKeepers(string zname, int zid, string_zanimal) {
+  name = zname;
+  id = zid;
+  animal = zanimal;
+  
+  }
+};
